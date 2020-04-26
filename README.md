@@ -2,7 +2,9 @@
 A website for estimating risk of COVID-19 infection.
 
 ## Introduction
-While numbers on case data may tell an overall picture, it is hard for the individual to grasp the danger of COVID-19 in personal terms. howdoescovidaffectme trys to solve this by creating a risk percentage calculation based on a model we created of COVID-19 spread.
+While numbers on case data may tell an overall picture, it is hard for the individual to grasp the danger of COVID-19 in personal terms. howdoescovidaffectme trys to solve this by creating a risk percentage calculation based on a model we created of COVID-19 spread.  
+
+The website can be found at https://www.howdoescovidaffectme.com.
 
 ### Details
 
